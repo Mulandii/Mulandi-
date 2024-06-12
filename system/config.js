@@ -1,7 +1,7 @@
 // Owner number
 global.owner = '254768827492'
 // Owner name
-global.owner_name = 'Mulandi 🗿💻'
+global.owner_name = 'Mulandi Ace 🗿💻'
 // Maximum upload file size limit (Default : 50 MB)
 global.max_upload = 5000
 // Delay for spamming protection (Default : 3 seconds)
@@ -40,7 +40,7 @@ global.status = Object.freeze({
    owner: Func.texted('bold', 'Only my Owner can use this command. 🗿🚬 -_- '),
    god: Func.texted('bold', 'This command only for Owner'),
    group: Func.texted('bold', 'This command works in groups.'),
-   botAdmin: Func.texted('bold', 'I am not an admin.. 🗿🚬 -_-'),
+   botAdmin: Func.texted('bold', 'I am not an admin here.. 🗿🚬 -_-'),
    admin: Func.texted('bold', 'You are not even an admin. 🗿🚬 -_-'),
    private: Func.texted('bold', 'Command meant for private chat.')
 })
